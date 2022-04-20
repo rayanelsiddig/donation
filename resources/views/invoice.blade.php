@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Donation Task </title>
+    <title>Payment integration task</title>
     <link href="{{ asset('custom.css') }}" rel="stylesheet">
     <style>
         .container {
